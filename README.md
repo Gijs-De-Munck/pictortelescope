@@ -1,0 +1,1 @@
+This repository has example data for accuired from the pictor telescope. This repository also includes plot_hi_waterfall, which adds a waterfall of the calibrated data, there is a .py file and a .ipynb file for jupyter notebook support.
